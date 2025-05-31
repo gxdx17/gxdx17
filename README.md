@@ -52,9 +52,22 @@
 
 <p align="left""Is ‘mobile-first’ still relevant? </p>
 <p align="left""Why do devs hate Figma auto-layout?"</p>
-
 <p align="left""The right amount of animation (before it’s annoying)."</p>
 
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/dennis-nazareno-8220b2364/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://awragroup.slack.com/team/U08UEMN2JF9" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+  </a>
+  <a href="https://dribbble.com/GxDx" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
+  </a>
+</div>
 
 ###
 
