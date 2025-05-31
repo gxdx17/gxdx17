@@ -50,10 +50,7 @@
 
 ###
 
-<p align="left""Is ‘mobile-first’ still relevant? </p>
-<p align="left""Why do devs hate Figma auto-layout?"</p>
-<p align="left""The right amount of animation (before it’s annoying)."</p>
-
+<p align="left">Design: Figma, Prototyping, Design Systems<br>Superpower: Turning vague feedback into "Oh, that’s exactly what I wanted."</p>
 
 ###
 
