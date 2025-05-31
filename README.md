@@ -44,3 +44,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
+###
+
+<h2 align="left">Open to discuss</h2>
+
+###
+
+<p align="left""Is ‘mobile-first’ still relevant? </p>
+<p align="left""Why do devs hate Figma auto-layout?"</p>
+
+<p align="left""The right amount of animation (before it’s annoying)."</p>
+
+
+###
+
+
