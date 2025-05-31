@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Design: Figma, Prototyping, Design Systems<br>Superpower: Turning vague feedback into "Oh, that’s exactly what I wanted."</p>
+<p align="left">Design: Figma, Prototyping, Design Systems<br>In Progress: Turning vague feedback into "Oh, that’s exactly what I wanted."</p>
 
 ###
 
