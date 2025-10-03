@@ -61,6 +61,13 @@
   <a href="https://dribbble.com/GxDx" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
   </a>
+   <a href="https://dribbble.com/GxDx" target="_blank">
+    <img src="https://github.com/user-attachments/assets/be2bc892-f305-4ba6-b3b1-ee81b1279d56" width="52" height="40" alt="dribbble logo"  />
+  </a>
+   <a href="https://dribbble.com/GxDx" target="_blank">
+    <img src="https://github.com/user-attachments/assets/77eb8a05-b727-410b-9864-f222cb044777" width="52" height="40" alt="dribbble logo"  />
+  </a>
+
 </div>
 
 ###
