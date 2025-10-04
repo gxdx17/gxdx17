@@ -1,11 +1,4 @@
-<h1 align="left">Follow this Guy he's too good omaygad</h1>
-👇👇👇👇👇👇👇👇👇👇
-
-
-###
-<img width="300" height="96" alt="image" src="https://github.com/user-attachments/assets/f5925015-840f-4719-a43b-c1ebcd8186f7" />
-
-###
+<h1 align="left">Hello</h1>
 
 <p align="left">Building interfaces that feel as good as they look.</p>
 
