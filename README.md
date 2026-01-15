@@ -1,4 +1,4 @@
-<h1 align="left">Hello</h1>
+<h1 align="left">Hello...</h1>
 
 <p align="left">Building interfaces that feel as good as they look.</p>
 
